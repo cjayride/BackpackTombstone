@@ -1,0 +1,10 @@
+{
+  "name": "BackpackTombstone",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/cjayride/BackpackTombstone",
+  "description": "Stops Adventure Backpacks from duplicating a backpack's contents when you die and take it back from the tombstone. Client side.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333",
+    "Vapok-AdventureBackpacks-2.2.0"
+  ]
+}
